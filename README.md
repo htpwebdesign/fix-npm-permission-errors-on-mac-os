@@ -7,7 +7,7 @@ These instructions are only necessary for macOS users. These instructions do not
 
 ## Instructions
 
-To minimize the chance of permissions errors, you can configure npm to use a different directory. In this example, you will create and use hidden directory in your home directory.
+To minimize the chance of permissions errors, you can configure npm to use a different directory. In this example, you will create and use a hidden directory in your home directory.
 
 1. Open your macOS Terminal application
 2. Most of the following instructions will require you to enter in the commands into the terminal window
